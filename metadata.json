@@ -1,0 +1,6 @@
+{
+  "name": "Help Me Decide",
+  "description": "A lively, modern platform for quick human-verified decision making, community advice library, and credit-based inquiry system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
